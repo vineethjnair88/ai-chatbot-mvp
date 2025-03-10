@@ -8,7 +8,7 @@
 }
 
 body {
-  background: linear-gradient(to right, #f8f9fa, #ffffff);
+  background: linear-gradient(to right, #1B4332, #000000); /* Dark Green to Black */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -20,8 +20,8 @@ body {
   text-align: center;
   padding: 40px;
   border-radius: 12px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-  background: white;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  background: #2D6A4F; /* Medium Green */
   max-width: 500px;
   width: 100%;
   animation: fadeIn 0.5s ease-in-out;
@@ -30,13 +30,12 @@ body {
 h1 {
   font-size: 2rem;
   font-weight: 600;
-  color: #222;
+  color: #ffffff; /* White */
 }
 
 p {
-  font-size: 1.2rem;
   font-weight: 400;
-  color: #555;
+   /* Light Gray */
   margin-top: 10px;
 }
 

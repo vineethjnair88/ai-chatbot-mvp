@@ -10,7 +10,7 @@ const Chatbot = () => {
     script.onload = () => {
       window.initBotStackAssistant({
         apiKey: "ablha65e1rofjcsxnhzmpgto",
-        botId: "26acd24b-d257-4231-8a6b-79298c3782c8",
+        botId: "aa2654ad-43b5-4e2b-911f-db9b52ecf773",
       });
     };
 
